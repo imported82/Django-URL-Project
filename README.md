@@ -34,4 +34,5 @@ Ensure your final code/submission is on the default branch of your GitHub reposi
 
 Submit the link to your Github repository e.g https://github.com/github_username/repo_name
 
+GitHub pages- https://imported82.github.io/Django-URL-Project/
  
